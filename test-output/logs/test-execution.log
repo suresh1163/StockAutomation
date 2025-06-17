@@ -1,0 +1,311 @@
+[2025-06-12 02:08:44] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:08:44] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:08:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:08:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:08:49] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:08:49] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:08:56] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:09:01] INFO  tests.StockInfoTest - Stock price for RCOM: 734.60
+[2025-06-12 02:09:01] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:09:57] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:09:57] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:09:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:09:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:10:06] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:10:06] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:10:12] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:10:17] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 02:10:17] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:10:54] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:10:54] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:10:55] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:10:55] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:10:57] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:10:57] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:11:02] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:11:07] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 02:11:07] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:11:43] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:11:43] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:11:44] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:11:44] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:11:45] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:11:45] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:11:47] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:11:48] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:12:36] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:12:36] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:12:37] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:12:37] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:12:38] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:12:39] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:12:40] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:12:43] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:13:13] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:13:13] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:13:14] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:13:14] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:13:15] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:13:16] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:13:18] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:13:24] ERROR tests.StockInfoTest - Stock price not found!
+[2025-06-12 02:13:24] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:14:56] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:14:56] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:14:56] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:14:56] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:14:58] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:14:58] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:14:59] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:15:05] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 02:15:05] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:15:56] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:15:57] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:15:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:15:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:15:59] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:15:59] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:16:01] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:16:06] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 02:16:06] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:16:40] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:16:40] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:16:40] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:16:40] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:16:42] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:16:42] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:16:44] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:16:50] ERROR tests.StockInfoTest - Stock price not found!
+[2025-06-12 02:16:50] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:17:22] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:17:22] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:17:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:17:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:17:25] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:17:25] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:17:26] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:17:30] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:17:46] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:17:46] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:17:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:17:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:17:49] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:17:49] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:17:50] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:17:56] INFO  tests.StockInfoTest - Stock price for RCOM: 734.60
+[2025-06-12 02:17:56] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:20:10] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:20:10] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:20:11] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:20:11] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:20:12] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:20:12] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:20:14] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 02:20:19] INFO  tests.StockInfoTest - Stock price for TATAMOTORS:
+[2025-06-12 02:20:19] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:21:46] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:21:46] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:21:46] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:21:46] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:21:48] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:21:48] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:21:49] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:21:55] INFO  tests.StockInfoTest - Stock price for TATAMOTORS:734.60
+[2025-06-12 02:21:55] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:22:23] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:22:23] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:22:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:22:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:22:25] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:22:25] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:22:27] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:22:33] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 734.60
+[2025-06-12 02:22:33] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:50:23] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:50:23] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:50:24] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:50:24] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:50:26] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:50:26] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:50:28] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:50:33] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 734.60
+[2025-06-12 02:50:33] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:52:32] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:52:32] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:52:32] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:52:32] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:52:34] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:52:34] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:52:36] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:52:41] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 734.60
+[2025-06-12 02:52:41] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:56:01] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:56:01] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:56:01] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:56:01] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:56:03] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:56:03] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:56:05] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:56:10] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 734.60
+[2025-06-12 02:56:10] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 02:59:04] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 02:59:04] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 02:59:04] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 02:59:04] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 02:59:06] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 02:59:06] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 02:59:08] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 02:59:13] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 734.60
+[2025-06-12 02:59:13] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 20:14:33] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:14:33] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:14:34] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:14:34] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:14:37] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:14:37] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:14:41] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:14:46] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 714.45
+[2025-06-12 20:14:47] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 20:18:13] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:18:13] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:18:14] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:18:14] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:18:16] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:18:16] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:18:20] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:18:26] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 714.45
+[2025-06-12 20:18:26] INFO  tests.StockInfoTest - 52 Week high price for TATAMOTORS: 1,179.00
+[2025-06-12 20:18:26] INFO  tests.StockInfoTest - 52 Week low price for TATAMOTORS: 535.75
+[2025-06-12 20:18:27] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 20:19:44] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:19:44] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:19:45] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:19:45] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:19:48] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:19:48] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:19:49] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:24:33] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:24:33] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:24:33] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:24:33] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:24:35] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:24:35] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:24:42] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:37:59] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 20:38:06] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:38:06] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:38:06] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:38:06] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:38:09] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:38:09] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:38:12] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:38:42] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 714.45
+[2025-06-12 20:38:44] INFO  tests.StockInfoTest - 52 Week high price for TATAMOTORS: 1,179.00
+[2025-06-12 20:38:45] INFO  tests.StockInfoTest - 52 Week low price for TATAMOTORS: 535.75
+[2025-06-12 20:38:53] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 20:54:09] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:54:10] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 20:54:10] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:54:10] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:54:12] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 20:54:12] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 20:54:15] INFO  tests.StockInfoTest - Searching for TATAMOTORS
+[2025-06-12 20:54:21] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 714.45
+[2025-06-12 20:54:21] INFO  tests.StockInfoTest - 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-12 20:54:21] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-12 20:54:21] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 21:07:04] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:07:04] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 21:07:05] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:07:05] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:07:07] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 21:07:07] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 21:07:10] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 21:07:16] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 21:07:16] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 21:10:00] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:10:00] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 21:10:01] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:10:01] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:10:03] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 21:10:03] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 21:10:07] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 21:10:13] INFO  tests.StockInfoTest - Stock price for RCOM: -
+[2025-06-12 21:10:13] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 21:12:35] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:12:35] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 21:12:36] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:12:36] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:12:38] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 21:12:38] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 21:12:43] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 21:12:49] ERROR tests.StockInfoTest - Stock price not found!
+[2025-06-12 21:12:49] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 21:15:35] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\suresdev\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:15:35] INFO  tests.StockInfoTest - Initializing WebDriver and ChromeOptions
+[2025-06-12 21:15:36] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:15:36] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\suresdev\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:15:38] INFO  tests.StockInfoTest - Browser launched successfully
+[2025-06-12 21:15:38] INFO  tests.StockInfoTest - Navigating to NSE India
+[2025-06-12 21:15:40] INFO  tests.StockInfoTest - Searching for RCOM
+[2025-06-12 21:15:51] ERROR tests.StockInfoTest - Stock price not found!
+[2025-06-12 21:15:51] INFO  tests.StockInfoTest - 52 week high price for RCOM: 2.58
+[2025-06-12 21:15:51] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-12 21:15:51] INFO  tests.StockInfoTest - Closing the browser
+[2025-06-12 21:22:06] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\suresdev\IdeaProjects\StockAutomation1\src\test\testng.xml] otherwise TestNG may fail or not work as expected.

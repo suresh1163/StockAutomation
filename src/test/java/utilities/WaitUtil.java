@@ -57,5 +57,18 @@ public class WaitUtil {
         return new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT))
                 .until(ExpectedConditions.textToBePresentInElement(element, text));
     }
+
+    public static String waitForNonEmptyText(WebDriver driver, By locator) {
+        return new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT))
+                .pollingEvery(Duration.ofMillis(500))
+                .ignoring(StaleElementReferenceException.class)
+                .until(d -> {
+                    WebElement element = d.findElement(locator);
+                    String text = element.getText().trim();
+                    return !text.isEmpty() ? text : null;
+                });
+    }
+
+
 }
 

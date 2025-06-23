@@ -35,7 +35,14 @@ public class stockPageObject {
     @FindBy(id = "logoURL")
     private WebElement logo;
 
-    // ==== Actions ====
+    private final By stockPriceLocator = By.id("quoteLtp");
+
+
+// ==== Actions ====
+
+    public By getStockPriceLocator() {
+        return stockPriceLocator;
+    }
 
     public WebElement getLogo() {
         return logo;

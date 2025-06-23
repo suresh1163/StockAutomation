@@ -21,7 +21,7 @@ public class ExtendReport {
                 extent = new ExtentReports();
                 extent.attachReporter(htmlReporter);
                 extent.setSystemInfo("OS", System.getProperty("os.name"));
-                extent.setSystemInfo("Tester", "Your Name");
+                extent.setSystemInfo("Tester", "Suresh");
      //           extent.setSystemInfo("Browser", "Chrome");
             }
             return extent;

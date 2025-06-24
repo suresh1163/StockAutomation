@@ -16,19 +16,20 @@ import java.nio.file.StandardCopyOption;
 
 public class ScreenshotUtil {
 
-   // private static final String SCREENSHOT_DIR = "test-output/screenshot/";
-
     public static String takeScreenshot(WebDriver driver, String fileName) throws IOException {
         File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        String screenshotPath = System.getProperty("user.dir") + "/test-output/screenshot/"+fileName+".png";
-        // Create directory if not exists
-        //Files.createDirectories(Paths.get(System.getProperty("user.dir") + "/screenshots"));
-        // Save screenshot file
-        Files.copy(screenshot.toPath(), Paths.get(screenshotPath), StandardCopyOption.REPLACE_EXISTING);
-        // Attach screenshot to report
-        return screenshotPath;
-
+        if (!screenshot.exists()) {
+            throw new IOException("Screenshot file was not created!");
+        }
+      //  String destPath = "C:/Users/Administrator/Desktop/Suresh/StockAutomation/test-output/screenshot/" + fileName + ".png";
+        String currentDir = System.getProperty("user.dir");
+        String destPath = currentDir + "/test-output/screenshot/" + fileName + ".png";
+        File destFile = new File(destPath);
+        Files.createDirectories(destFile.getParentFile().toPath()); // Ensure folder exists
+        Files.copy(screenshot.toPath(), destFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+        return destPath;
     }
+
 
 }
 

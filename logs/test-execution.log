@@ -2380,3 +2380,440 @@
 [2025-06-22 17:23:15] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
 [2025-06-22 17:23:19] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
 [2025-06-22 17:23:19] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:11:09] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:11:11] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:11:11] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:11:12] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:11:12] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:11:15] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:11:17] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:17:47] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:17:48] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:17:49] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:17:49] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:17:49] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:17:51] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:17:53] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:17:57] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:17:57] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:17:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:17:57] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:17:58] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:18:00] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:18:03] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:18:04] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:18:04] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:18:04] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:18:05] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:18:05] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "50.0"
+[2025-06-23 23:18:05] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:18:05] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "10.0"
+[2025-06-23 23:18:05] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:18:42] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:18:43] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:18:44] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:18:44] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:18:44] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:18:45] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:18:47] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:18:50] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:18:52] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:18:52] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:18:52] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:18:53] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:18:54] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:18:58] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:18:58] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:18:59] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:18:59] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:18:59] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:19:24] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "10.0"
+[2025-06-23 23:19:37] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:19:44] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "50.0"
+[2025-06-23 23:19:49] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:19:51] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:19:51] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:19:52] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:19:52] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:19:53] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:19:55] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:19:57] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:19:58] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:19:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:19:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:19:59] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:20:01] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:20:04] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:20:04] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:20:05] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:20:05] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:20:05] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:20:43] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "10.0"
+[2025-06-23 23:20:43] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:20:55] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "50.0"
+[2025-06-23 23:20:55] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:25:43] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:25:44] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:25:45] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:25:45] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:25:45] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:25:46] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:25:48] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:25:52] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:25:53] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:25:53] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:25:53] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:25:54] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:25:55] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:25:58] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:25:59] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:26:00] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:26:00] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:26:00] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:26:38] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "10.0"
+[2025-06-23 23:27:21] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:27:22] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:27:23] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:27:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:27:23] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:27:25] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:27:27] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:27:30] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:27:31] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:27:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:27:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:27:32] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:27:34] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:27:37] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:27:38] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:27:38] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:27:38] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:27:39] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:28:10] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:28:28] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:28:42] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-23 23:28:43] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:34:18] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:34:20] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:34:20] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:34:20] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:34:20] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:34:22] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:34:24] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:34:26] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:34:27] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:34:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:34:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:34:28] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:34:30] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:34:33] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:34:33] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:34:34] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:34:34] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:34:34] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:34:35] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-23 23:34:35] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:34:35] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:34:35] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:37:17] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:37:18] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:37:19] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:37:19] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:37:19] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:37:21] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:37:22] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:37:25] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:37:27] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:37:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:37:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:37:28] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:37:32] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:37:35] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:37:36] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:37:36] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:37:36] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:37:36] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:38:02] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:39:56] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:39:57] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:39:58] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:39:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:39:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:39:59] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:40:01] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:40:04] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:40:05] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:40:05] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:40:05] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:40:06] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:40:07] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:40:10] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:40:11] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:40:11] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:40:11] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:40:11] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:40:12] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-23 23:40:12] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:40:12] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:40:12] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:44:39] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:44:40] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:44:40] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:44:40] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:44:40] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:44:42] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:44:43] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:44:46] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:44:47] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:44:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:44:47] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:44:48] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:44:50] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:44:53] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:44:53] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:44:54] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:44:54] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:44:54] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:44:54] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-23 23:44:54] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:44:55] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:44:55] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-23 23:49:01] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-23 23:49:02] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-23 23:49:02] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-23 23:49:03] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:49:03] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:49:04] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:49:06] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-23 23:49:09] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-23 23:49:10] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-23 23:49:10] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-23 23:49:10] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-23 23:49:10] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-23 23:49:13] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-23 23:49:16] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-23 23:49:16] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-23 23:49:17] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-23 23:49:17] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-23 23:49:17] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-23 23:49:17] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-23 23:49:18] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-23 23:49:18] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-23 23:49:18] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 00:09:23] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 00:09:25] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 00:09:25] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 00:09:25] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:09:25] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:09:27] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:09:29] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 00:09:32] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-24 00:09:32] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 00:09:32] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:09:32] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:09:33] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:09:36] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 00:09:39] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-24 00:09:39] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 00:09:40] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 00:09:40] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 00:09:40] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 00:10:06] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-24 00:10:31] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 00:10:32] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-24 00:10:33] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 00:13:48] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 00:13:49] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 00:13:49] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 00:13:51] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:13:51] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:13:53] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:13:55] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 00:13:57] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-24 00:13:58] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 00:13:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:13:58] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:13:59] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:14:00] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 00:14:03] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-24 00:14:04] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 00:14:04] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 00:14:04] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 00:14:04] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 00:14:05] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-24 00:14:05] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 00:14:05] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-24 00:14:05] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 00:23:00] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 00:23:01] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 00:23:01] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 00:23:01] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:23:02] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:23:03] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:23:05] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 00:23:07] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-24 00:23:08] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 00:23:08] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:23:08] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:23:09] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:23:11] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 00:23:14] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-24 00:23:15] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 00:23:15] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 00:23:15] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 00:23:15] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 00:23:16] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-24 00:23:16] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 00:23:16] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-24 00:23:16] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 00:27:29] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 00:27:30] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 00:27:30] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 00:27:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:27:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:27:32] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:27:34] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 00:27:37] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 671.80
+[2025-06-24 00:27:38] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 00:27:38] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 00:27:38] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 00:27:39] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 00:27:40] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 00:27:43] INFO  tests.StockInfoTest - Stock price for RCOM: 1.66
+[2025-06-24 00:27:44] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 00:27:44] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 00:27:44] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 00:27:44] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 00:27:45] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 671.8 | Quantity: 50 | Profit: 8589.999999999998
+[2025-06-24 00:27:45] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 00:27:45] INFO  tests.StockInfoTest - Stock: RCOM | Purchased at: 100.0 | Current Price: 1.66 | Quantity: 10 | Loss: -983.4000000000001
+[2025-06-24 00:27:45] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 15:29:28] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 15:29:30] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 15:29:30] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 15:29:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:29:31] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:29:33] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:29:36] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 15:29:58] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 15:30:31] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 15:30:32] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 15:30:32] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 15:30:33] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:30:33] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:30:34] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:30:40] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 15:30:50] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 674.30
+[2025-06-24 15:30:50] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 15:30:50] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:30:50] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:30:51] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:30:53] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 15:30:56] ERROR tests.StockInfoTest - RCOM stock price not found!
+[2025-06-24 15:30:56] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 15:30:56] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 15:30:56] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 15:30:57] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 15:30:57] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 674.3 | Quantity: 50 | Profit: 8714.999999999998
+[2025-06-24 15:30:57] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 15:31:00] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "-"
+[2025-06-24 15:31:00] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 15:33:19] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 15:33:21] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 15:33:21] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 15:33:21] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:33:21] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:33:23] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:33:25] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 15:33:28] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 674.30
+[2025-06-24 15:33:29] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 15:33:29] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:33:29] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:33:30] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:33:31] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 15:33:34] ERROR tests.StockInfoTest - RCOM stock price not found!
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 674.3 | Quantity: 50 | Profit: 8714.999999999998
+[2025-06-24 15:33:35] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 15:33:36] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "-"
+[2025-06-24 15:33:36] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 15:34:44] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 15:34:45] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 15:34:45] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 15:34:46] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:34:46] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:34:47] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:34:49] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 15:34:52] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 674.30
+[2025-06-24 15:34:53] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 15:34:53] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:34:53] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:34:54] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:34:56] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 15:34:59] ERROR tests.StockInfoTest - RCOM stock price not found!
+[2025-06-24 15:35:00] INFO  tests.StockInfoTest - TATAMOTORS 52 week high price for TATAMOTORS: 1,179.00
+[2025-06-24 15:35:00] INFO  tests.StockInfoTest - RCOM 52 week high price for RCOM: 2.58
+[2025-06-24 15:35:00] INFO  tests.StockInfoTest - 52 week low price for TATAMOTORS: 535.75
+[2025-06-24 15:35:00] INFO  tests.StockInfoTest - 52 week low price for RCOM: 1.34
+[2025-06-24 15:35:00] INFO  tests.StockInfoTest - Stock: TATAMOTORS | Purchased at: 500.0 | Current Price: 674.3 | Quantity: 50 | Profit: 8714.999999999998
+[2025-06-24 15:35:01] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 15:35:01] ERROR tests.StockInfoTest - Failed to parse price or quantity: For input string: "-"
+[2025-06-24 15:35:01] INFO  tests.StockInfoTest - Closing the browserfor RCOM
+[2025-06-24 15:36:24] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-06-24 15:36:26] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\Desktop\Suresh\StockAutomation\src\test\testng.xml
+
+[2025-06-24 15:36:26] INFO  tests.StockInfoTest - Initializing browser for: TATAMOTORS
+[2025-06-24 15:36:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:36:27] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:36:28] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:36:31] INFO  tests.StockInfoTest - Executing Test Case: TC_002 | Stock: TATAMOTORS
+[2025-06-24 15:36:35] INFO  tests.StockInfoTest - Stock price for TATAMOTORS: 674.30
+[2025-06-24 15:36:35] INFO  tests.StockInfoTest - Initializing browser for: RCOM
+[2025-06-24 15:36:35] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+[2025-06-24 15:36:35] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+[2025-06-24 15:36:36] INFO  tests.StockInfoTest - chrome Browser launched successfully
+[2025-06-24 15:36:37] INFO  tests.StockInfoTest - Executing Test Case: TC_001 | Stock: RCOM
+[2025-06-24 15:36:58] INFO  tests.StockInfoTest - Closing the browserfor TATAMOTORS
+[2025-06-24 15:36:58] INFO  tests.StockInfoTest - Closing the browserfor RCOM

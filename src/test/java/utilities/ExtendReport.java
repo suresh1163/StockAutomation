@@ -10,8 +10,10 @@ public class ExtendReport {
 
         public static ExtentReports getInstance() {
             if (extent == null) {
-                String reportPath = "C:/Users/suresdev/IdeaProjects/StockAutomation1/test-output/extent-report.html";
+                String currentDir = System.getProperty("user.dir");
+                String reportPath = currentDir + "/test-output/extent-report.html";
 
+             //   String reportPath = "C:/Users/Administrator/Desktop/Suresh/StockAutomation/test-output/extent-report.html";
 
                 ExtentSparkReporter htmlReporter = new ExtentSparkReporter(reportPath);
                 htmlReporter.config().setDocumentTitle("Automation Test Report");

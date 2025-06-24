@@ -54,9 +54,10 @@ public class StockInfoTest {
             switch (browser.toLowerCase()) {
                 case "chrome":
                     WebDriverManager.chromedriver().setup();
-                    ChromeOptions options = new ChromeOptions();
-                    options.setBinary("C:/Users/suresdev/Downloads/chrome-win64/chrome-win64/chrome.exe");
-                    driver = new ChromeDriver(options);
+               //     ChromeOptions options = new ChromeOptions();
+                //    options.setBinary("C:/Users/suresdev/Downloads/chrome-win64/chrome-win64/chrome.exe");
+                //    driver = new ChromeDriver(options);
+                    driver = new ChromeDriver();
                     break;
                 case "firefox":
                     WebDriverManager.firefoxdriver().setup(); driver = new FirefoxDriver(); break;
@@ -96,8 +97,7 @@ public class StockInfoTest {
             }
         }
 
-
-        @Test(priority = 2)
+    @Test(priority = 2)
         public void verifyStock52WeekHigh() throws IOException {
             // Validate stock 52 week high price field is displayed and contains numeric values
             WaitUtil.waitForNonEmptyText(driver, stockPage.getStockPriceLocator());
@@ -130,13 +130,38 @@ public class StockInfoTest {
             }
         }
 
+    @Test(priority = 4)
+    public void validateProfitOrLoss() throws IOException {
+        WaitUtil.waitForNonEmptyText(driver, stockPage.getStockPriceLocator());
+        String currentPriceStr = stockPage.getStockPrice().getText().replace(",", "");
 
-    //    @Test(dataProvider = "testCaseData",priority = 3)
-    public void verifyStock52WeekLow(Map<String, String> testData) throws InterruptedException, IOException {
+        try {
+            double currentPrice = Double.parseDouble(currentPriceStr);
+            double purchasedValue = Double.parseDouble(testData.get("Purchased_Value"));
+            int quantity = Integer.parseInt(testData.get("Quantity"));
 
-        WaitUtil.waitForNonEmptyText(driver,stockPage.getStockPriceLocator());
-        String low52week = stockPage.getWeek52Low().getText();
+            double profitOrLoss = (currentPrice - purchasedValue) * quantity;
+            String result = profitOrLoss >= 0 ? "Profit" : "Loss";
 
+            String coloredResult = result.equals("Profit")
+                    ? "<b><span style='color:green'>Profit: " + profitOrLoss + "</span></b>"
+                    : "<b><span style='color:red'>Loss: " + profitOrLoss + "</span></b>";
+
+            logger.info("Stock: {} | Purchased at: {} | Current Price: {} | Quantity: {} | {}: {}",
+                    stockName, purchasedValue, currentPrice, quantity, result, profitOrLoss);
+
+            report.pass(result + " calculated for " + stockName + ": " +coloredResult,
+                    MediaEntityBuilder.createScreenCaptureFromPath(ScreenshotUtil.takeScreenshot(driver, stockName + "_ProfitLoss")).build());
+
+            // Add assert for reporting
+            Assert.assertTrue(true, result + ": " + profitOrLoss);
+
+        } catch (NumberFormatException e) {
+            logger.error("Failed to parse price or quantity: " + e.getMessage());
+            report.fail("Error parsing input values for " + stockName,
+                    MediaEntityBuilder.createScreenCaptureFromPath(ScreenshotUtil.takeScreenshot(driver, stockName + "_ParseError")).build());
+            Assert.fail("Invalid data for calculation");
+        }
     }
 
     @AfterMethod
